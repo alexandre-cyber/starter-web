@@ -10,3 +10,5 @@ The main purpose is to provide examples for git training demos
 sharing your skills to other people
 work with other programmers and
 on differents projects.
+### Copyright
+git 2014 training
