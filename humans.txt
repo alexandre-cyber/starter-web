@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Alexandre alexandre.machely@gmail.com
 
 # THANKS
 
