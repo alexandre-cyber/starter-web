@@ -16,4 +16,4 @@ Please fork this repository and then issue Pull Requests for review.
 git 2014 training
 
 ## Very last Update of the course
-hope this isn't much of a problem
+Adding more information on readme.md file
